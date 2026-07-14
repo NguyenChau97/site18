@@ -134,19 +134,19 @@ header.sticky ul li a{
 img{
     max-width: 100%
 }
-.services{
+.Dự án{
     background: #111;
 }
 .heading.white{
 color: #fff;
 }
-.services .content{
+.Dự án .content{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     flex-direction: row;
 }
-.services .content .servicesBX
+.Dự án .content .Dự ánBX
 {
     padding: 40px 20px;
     background: #222;
@@ -156,16 +156,16 @@ color: #fff;
     text-align: center;
     transition: 0.5s;
 }
-.services .content .servicesBX:hover{
+.Dự án .content .Dự ánBX:hover{
     background: #2196f3
 }
-.services .content .servicesBX img{
-    max-width: 80px;
+.Dự án .content .Dự ánBX img{
+    max-width: 60px;
     filter: invert(1);
 }
-.services .content .servicesBX h2{
-    font-size:20px;
-    font-weight: 600; 
+.Dự án .content .dự ánBX h2{
+    font-size:15px;
+    font-weight: 500; 
 }
 .work .content
 {
